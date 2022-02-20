@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 76111229973ab43958e8b0366a205766
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - SpaceShipPrefab: {fileID: 5469025863403522556, guid: 21588aaef965d462ab7767effb5e365f, type: 3}
+  - playerInstance: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
